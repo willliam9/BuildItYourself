@@ -1,0 +1,40 @@
+# Ignore temp files
+[Oo]bj/
+[Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Tt]est[Bb]uild/
+
+# Ignore user-specific files
+[Ll]ocal[Ll]ow/
+[Ll]ocal[Ll]ow.unityproj
+[Ss]aved[ -][Ss]cenes/
+[Oo]bjects/
+[Mm]etadata/
+[Ll]ogs/
+
+# Ignore Visual Studio Code config folder
+.vscode/
+
+# Ignore Mono Auto Generated Files
+Assembly-CSharp*.dll
+Assembly-CSharp*.pdb
+Assembly-CSharp*.mdb
+
+# Ignore Rider folder
+.idea/
+*.sln
+*.csproj
+*.unityproj
+
+# Ignore Rider, Visual Studio, and Mono generated files
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+
+# Ignore Rider, Visual Studio, and Mono folders
+.idea/
+.vs/
+Library/
